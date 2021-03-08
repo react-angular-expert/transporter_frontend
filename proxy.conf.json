@@ -1,0 +1,8 @@
+{
+  "/": {
+    "target": "https://transporter-srb-hun.herokuapp.com",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
